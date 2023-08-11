@@ -1,0 +1,16 @@
+gitignore
+- - - .gitignore
+iml
+- - - File_Handing3.iml
+py
+- - - 3.File Manipulator.py
+- - - 4.Directory Travers.py
+- - - 4.Directory Traversal.py
+txt
+- - - file.txt
+- - - report.txt
+xml
+- - - misc.xml
+- - - modules.xml
+- - - workspace.xml
+- - - profiles_settings.xml
